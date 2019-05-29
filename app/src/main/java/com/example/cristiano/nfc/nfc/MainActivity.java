@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
 
             textViewParticipants.setText(participantsText.toString());
         }else{
-            Toast.makeText(this, "Tag sbagliata! Cercane un'altra!", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Tag saliubcaiubco! Cercane un'altra!", Toast.LENGTH_LONG).show();
         }
     }
 
@@ -204,10 +204,6 @@ public class MainActivity extends AppCompatActivity {
     private void makeVisible(View input){
         input.setVisibility(View.VISIBLE);
     }
-
-
-
-    //lennygay
 
     private void makeInvisible(View input){
         input.setVisibility(View.INVISIBLE);
