@@ -205,6 +205,10 @@ public class MainActivity extends AppCompatActivity {
         input.setVisibility(View.VISIBLE);
     }
 
+
+
+    //lennygay
+
     private void makeInvisible(View input){
         input.setVisibility(View.INVISIBLE);
     }
