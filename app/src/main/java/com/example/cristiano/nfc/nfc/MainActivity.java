@@ -144,7 +144,7 @@ public class MainActivity extends AppCompatActivity {
 
             textViewParticipants.setText(participantsText.toString());
         }else{
-            Toast.makeText(this, "Tag saliubcaiubco! Cercane un'altra!", Toast.LENGTH_LONG).show();
+            Toast.makeText(this, "Tag rstyihjj! Cercane un'altra!", Toast.LENGTH_LONG).show();
         }
     }
 
